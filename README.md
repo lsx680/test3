@@ -1,4 +1,6 @@
-# 赛题 6 · Scheduler-定时任务抓取与分析 GitHub 热门
+# GitHub Trending 定时分析看板
+
+赛题 6 · Scheduler-定时任务抓取与分析 GitHub 热门。
 
 本作品基于 `analyze-github-trending` 技能与码道 IDE 定时任务能力，按日自动抓取 GitHub Trending 榜单，补充 README 语义信息，生成中文分析日报，并同步输出可离线打开的 dashboard 页面，全流程无需人工干预。
 
